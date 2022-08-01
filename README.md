@@ -1,2 +1,2 @@
 # Python projects
-Basin Pyhon project made while using pthon
+Basin Pyhon projects made while using pthon
