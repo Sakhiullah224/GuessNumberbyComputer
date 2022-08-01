@@ -1,2 +1,2 @@
-# GuessNumberbyComputer
-Python program , in which computer will guess your chosen number
+# Python projects
+Basin Pyhon project made while using pthon
